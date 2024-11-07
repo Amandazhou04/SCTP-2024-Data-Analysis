@@ -1,4 +1,4 @@
-# My first capstone <<PLACEHOLDER>>
+# My first capstone - PLACEHOLDER
 
 ### An analysis of snake-eating squirrels in Peru in 1988
 
