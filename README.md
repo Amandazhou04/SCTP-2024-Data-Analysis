@@ -1,6 +1,6 @@
-# My first capstone - PLACEHOLDER
+# Capstone Project - Predicting Customer Churn
 
-### An analysis of snake-eating squirrels in Peru in 1988
+### Simple machine learning and data analysis 
 
 ![Screenshot of dashboard](https://i.imgur.com/UujCjhB.png)
 
