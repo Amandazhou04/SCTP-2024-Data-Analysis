@@ -6,7 +6,7 @@
 
 [Link to dataset](https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction/data)
 
-<b>Project Overview</b>
+## <b>Project Overview</b>
 
 <b>Client: </b> <br>
 The client is a renown bank that offers various banking products in the highly competitive consumer banking sector. Client operates primarily in France, Germany & Spain.
@@ -16,6 +16,12 @@ The client is a renown bank that offers various banking products in the highly c
 + High acquisition costs: Customer acquisition can cost up to 5X times more1 than customer retention.
 + Highly competitive banking sector. Consumers are spoilt for choice. All banks are fighting for the same pie.
 
+<b>Expected Deliverables: </b> <br>
++ What: Understand the variables that impact the churn rate
++ Why: To find out why do Customers churn
++ How: Based on the findings, suggest how the bank can reduce the churn rate
++ Who: Prediction if a customer will leave
++ What Next: Recommendations based on findings from this study
 
 <details>
 <summary><b>Foldable hidden section</b></summary>
