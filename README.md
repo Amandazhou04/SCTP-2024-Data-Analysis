@@ -6,9 +6,9 @@
 
 [Link to dataset](https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction/data)
 
-Project Overview
+<b>Project Overview</b>
 
-<b>Client: </b>
+<b>Client: </b> <br>
 The client is a renown bank that offers various banking products in the highly competitive consumer banking sector. Client operates primarily in France, Germany & Spain.
 
 <b>Current Business Problem: </b>
