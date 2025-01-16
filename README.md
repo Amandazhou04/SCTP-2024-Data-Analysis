@@ -3,6 +3,7 @@
 ### Simple machine learning and data analysis 
 
 ![customer image](https://github.com/Amandazhou04/SCTP-2024-Data-Analysis/blob/main/customer-563967_1280.jpg?raw=true)
+Image by Gerd Altmann from [Pixabay](https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=660085)
 
 [Link to dataset](https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction/data)
 
