@@ -4,11 +4,18 @@
 
 ![customer image](https://github.com/Amandazhou04/SCTP-2024-Data-Analysis/blob/main/customer-563967_1280.jpg?raw=true)
 
-[Link to dataset](https://people.sc.fsu.edu/~jburkardt/data/csv/addresses.csv)
+[Link to dataset](https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction/data)
 
-Description of dataset
+Project Overview
 
-(Para about your findings and techniques you used) "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+<b>Client: </b>
+The client is a renown bank that offers various banking products in the highly competitive consumer banking sector. Client operates primarily in France, Germany & Spain.
+
+<b>Current Business Problem: </b>
++ The client has been experiencing increasing churn rate in recent years.
++ High acquisition costs: Customer acquisition can cost up to 5X times more1 than customer retention.
++ Highly competitive banking sector. Consumers are spoilt for choice. All banks are fighting for the same pie.
+
 
 <details>
 <summary><b>Foldable hidden section</b></summary>
