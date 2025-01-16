@@ -2,7 +2,7 @@
 
 ### Simple machine learning and data analysis 
 
-![Screenshot of dashboard](https://i.imgur.com/UujCjhB.png)
+![customer image](https://github.com/Amandazhou04/SCTP-2024-Data-Analysis/blob/main/customer-563967_1280.jpg?raw=true)
 
 [Link to dataset](https://people.sc.fsu.edu/~jburkardt/data/csv/addresses.csv)
 
