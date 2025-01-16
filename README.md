@@ -24,7 +24,7 @@ The client is a renown bank that offers various banking products in the highly c
 + What Next: Recommendations based on findings from this study
 
 <details>
-<summary><b>Foldable hidden section</b></summary>
+<summary><b>Overall Workflow - Highlights & Lowlights</b></summary>
 
 Any folded content here. It requires an empty line just above it!
 
