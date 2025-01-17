@@ -8,30 +8,30 @@ Image by Gerd Altmann from [Pixabay](https://pixabay.com//?utm_source=link-attri
 
 [Link to dataset](https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction/data)
 
-## <b>Project Overview</b>
+## Project Overview
 
-<b>Client: </b> <br>
+### Client: 
 The client is a renown bank that offers various banking products in the highly competitive consumer banking sector. Client operates primarily in France, Germany & Spain.
 
-<b>Current Business Problem: </b>
+### Current Business Problem: 
 + The client has been experiencing increasing churn rate in recent years.
 + High acquisition costs: Customer acquisition can cost up to 5X times more1 than customer retention.
 + Highly competitive banking sector. Consumers are spoilt for choice. All banks are fighting for the same pie.
 
-<b>Expected Deliverables: </b> <br>
+### Expected Deliverables: 
 + What: Understand the variables that impact the churn rate
 + Why: To find out why do Customers churn
 + How: Based on the findings, suggest how the bank can reduce the churn rate
 + Who: Prediction if a customer will leave
 + What Next: Recommendations based on findings from this study
 
-<b> Overall Workflow </b>
+### Overall Workflow: 
 ![workflow](https://github.com/Amandazhou04/SCTP-2024-Data-Analysis/blob/fa4aa47c1228fb355fcd2809acd6b3c192895406/Project%20workflow.png)
 
 <details>
 <summary><b>The Dataset</b></summary>
 
-The dataset contains 14 columns, 10,002 records. 
+The dataset contains <b>14 columns, 10,002 records.</b> 
 It includes the following attributes:
 
 - Customer ID: A unique identifier for each customer
@@ -50,21 +50,48 @@ It includes the following attributes:
 
 </details>
 
-
 <details>
-  <summary>Click me</summary>
-  
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
+  <summary>Visualisations</summary>
+ 
+ Through visualisation, we are able to better understand and uncover any relationships or trends that are present in the dataset. Some visualisations include:
+#### Pairplot Exploring Relationships Between Variables
+![pairplot](https://github.com/Amandazhou04/SCTP-2024-Data-Analysis/blob/0b804ae7b97a682919b8be1db335fb2142d9df0c/pairplot.png)  
 
+#### Distribution of Numerical Variables
+![numerical variables distribution](https://github.com/Amandazhou04/SCTP-2024-Data-Analysis/blob/0b804ae7b97a682919b8be1db335fb2142d9df0c/distribution%20num%20variables.png)
+
+#### Distribution of Categorical Variables
+![Cat variables distri](https://github.com/Amandazhou04/SCTP-2024-Data-Analysis/blob/0b804ae7b97a682919b8be1db335fb2142d9df0c/distribution%20cat%20variables.png)
+
+#### Correlation Between Features and Target - Violin Plot
+![violin plot](https://github.com/Amandazhou04/SCTP-2024-Data-Analysis/blob/0b804ae7b97a682919b8be1db335fb2142d9df0c/violin%20plot.png)
+
+#### Correlation Between Features and Target - Categorical Variables
+![chi sq](https://github.com/Amandazhou04/SCTP-2024-Data-Analysis/blob/0b804ae7b97a682919b8be1db335fb2142d9df0c/chi%20sq%20cat%20features.png)
 
 </details>
 
-What you learned
+<details>
+  <summary>Key Takeaways & Recommendations:</summary>
+  
+#### Customised targeted campaigns by age group & country
+- Majority of younger customers tend to remain with the bank, but older customers show an increased tendency to leave
+- Differences in churn rates in different countries ( Lowest churn rate rate in Germany)
 
-What you'd change
+#### Further investigation product ownership behaviour
+- Low retention rate for customers who own 3 or more products
+- Additional customer survey to look into possible reasons for underperforming products/service offerings
+- Additional analysis into type of product owned (Wealth/Investment-related products? Loans?) >> provide insights into banking needs or any gaps in current offerings
 
-Link to your LinkedIn
+#### Aggressive new customer acquisition campaign
+- Sharp dip in number of customers with tenure of 10 years & 0 years. This implies that there are fewer new customers in the last 1 year and a dip in number of older customers.
+- Investigate reasons for low onboarding of new customers in the past year. Is it Geography specific?
+
+#### Investigate correlation between ‘Balance’ & ‘IsActiveMember’
+- Sizeable portion of the bank's customers hold zero balance in their accounts.
+- Additional analysis to look into the correlation between balance amount and active/inactive member status to see if customers are purely using the account as a holding transactional account.
+- Perhaps consider implementing retention campaigns to encourage more engagements and to turn them into active members, thereby increasing retention rate.
+  
+</details>
+
+Like what you see? Get in touch with me on [LinkedIn.](linkedin.com/in/amanda-z-62110417)
