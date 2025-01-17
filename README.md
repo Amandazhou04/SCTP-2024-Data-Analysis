@@ -71,8 +71,7 @@ It includes the following attributes:
 
 </details>
 
-<details>
-  <summary>Key Takeaways & Recommendations:</summary>
+### Key Takeaways & Recommendations:
   
 #### Customised targeted campaigns by age group & country
 - Majority of younger customers tend to remain with the bank, but older customers show an increased tendency to leave
@@ -91,7 +90,6 @@ It includes the following attributes:
 - Sizeable portion of the bank's customers hold zero balance in their accounts.
 - Additional analysis to look into the correlation between balance amount and active/inactive member status to see if customers are purely using the account as a holding transactional account.
 - Perhaps consider implementing retention campaigns to encourage more engagements and to turn them into active members, thereby increasing retention rate.
-  
-</details>
+
 
 Like what you see? Get in touch with me on [LinkedIn.](linkedin.com/in/amanda-z-62110417)
