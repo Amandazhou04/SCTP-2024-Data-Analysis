@@ -6,7 +6,8 @@
 
 Image by Gerd Altmann from [Pixabay](https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=660085)
 
-[Link to dataset](https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction/data)
+[Link to dataset](https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction/data)  
+
 Note : Credits to [Venkatesh Tantravahi](https://www.kaggle.com/venkateshtantravahi) for some of the analysis strategies used here.
 ## Project Overview
 
