@@ -2,7 +2,7 @@
 
 ### Simple machine learning and data analysis 
 
-![new customer image](https://github.com/Amandazhou04/SCTP-2024-Data-Analysis/blob/main/business-idea-660085_1280.jpg?raw=true)
+![new customer image](https://github.com/Amandazhou04/SCTP-2024-Data-Analysis/blob/a57f7d0e2ca55123279b27cf05959bdbe69132d9/images/capstone%20proj/business-idea-660085_1280.jpg)
 
 Image by Gerd Altmann from [Pixabay](https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=660085)
 
@@ -26,7 +26,7 @@ The client is a renown bank that offers various banking products in the highly c
 + What Next: Recommendations based on findings from this study
 
 ### Overall Workflow: 
-![workflow](https://github.com/Amandazhou04/SCTP-2024-Data-Analysis/blob/fa4aa47c1228fb355fcd2809acd6b3c192895406/Project%20workflow.png)
+![workflow](https://github.com/Amandazhou04/SCTP-2024-Data-Analysis/blob/a57f7d0e2ca55123279b27cf05959bdbe69132d9/images/capstone%20proj/Project%20workflow.png)
 
 <details>
 <summary><b>The Dataset</b></summary>
@@ -55,19 +55,19 @@ It includes the following attributes:
  
  Through visualisation, we are able to better understand and uncover any relationships or trends that are present in the dataset. Some visualisations include:
 #### Pairplot Exploring Relationships Between Variables
-![pairplot](https://github.com/Amandazhou04/SCTP-2024-Data-Analysis/blob/0b804ae7b97a682919b8be1db335fb2142d9df0c/pairplot.png)  
+![pairplot](https://github.com/Amandazhou04/SCTP-2024-Data-Analysis/blob/a57f7d0e2ca55123279b27cf05959bdbe69132d9/images/capstone%20proj/pairplot.png)  
 
-#### Distribution of Numerical Variables
-![numerical variables distribution](https://github.com/Amandazhou04/SCTP-2024-Data-Analysis/blob/0b804ae7b97a682919b8be1db335fb2142d9df0c/distribution%20num%20variables.png)
+#### Distribution of Numeric Variables
+![numeric variables distribution](https://github.com/Amandazhou04/SCTP-2024-Data-Analysis/blob/a57f7d0e2ca55123279b27cf05959bdbe69132d9/images/capstone%20proj/distribution%20num%20variables.png)
 
 #### Distribution of Categorical Variables
-![Cat variables distri](https://github.com/Amandazhou04/SCTP-2024-Data-Analysis/blob/0b804ae7b97a682919b8be1db335fb2142d9df0c/distribution%20cat%20variables.png)
+![Cat variables distri](https://github.com/Amandazhou04/SCTP-2024-Data-Analysis/blob/a57f7d0e2ca55123279b27cf05959bdbe69132d9/images/capstone%20proj/distribution%20cat%20variables.png)
 
 #### Correlation Between Features and Target - Violin Plot
-![violin plot](https://github.com/Amandazhou04/SCTP-2024-Data-Analysis/blob/0b804ae7b97a682919b8be1db335fb2142d9df0c/violin%20plot.png)
+![violin plot](https://github.com/Amandazhou04/SCTP-2024-Data-Analysis/blob/a57f7d0e2ca55123279b27cf05959bdbe69132d9/images/capstone%20proj/violin%20plot.png)
 
 #### Correlation Between Features and Target - Categorical Variables
-![chi sq](https://github.com/Amandazhou04/SCTP-2024-Data-Analysis/blob/0b804ae7b97a682919b8be1db335fb2142d9df0c/chi%20sq%20cat%20features.png)
+![chi sq](https://github.com/Amandazhou04/SCTP-2024-Data-Analysis/blob/a57f7d0e2ca55123279b27cf05959bdbe69132d9/images/capstone%20proj/chi%20sq%20cat%20features.png)
 
 </details>
 
